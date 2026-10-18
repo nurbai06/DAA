@@ -17,3 +17,8 @@ Each task contains solution.py and README.md.
 - [Intersection of Two Linked Lists](week4/intersection/README.md)
 - [Remove Linked List Elements](week4/remove_elements/README.md)
 - [Palindrome Linked List](week4/palindrome/README.md)
+
+## Week 5
+
+- [Sort an Array](week5/sort_an_array/README.md)
+- [Sort List](week5/sort_list/README.md)
