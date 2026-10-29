@@ -25,3 +25,4 @@ In the worst case, the algorithm checks every node to find the nearest leaf.
 
 ## 5. Reflection / Improvement
 Breadth-first search can stop at the first leaf. Its worst-case time is still O(n), but it may avoid visiting deeper nodes.
+
