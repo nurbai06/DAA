@@ -26,3 +26,4 @@ Each node is checked at most once.
 
 ## 5. Reflection / Improvement
 The solution is already linear. An iterative traversal could also find left leaves in O(n) time.
+
