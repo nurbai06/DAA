@@ -6,21 +6,22 @@ I need to return the values in this order: current node, left subtree, right sub
 ## 2. Approach
 I add the current node first, then recursively visit its left subtree and right subtree.
 
-### Example trace
-For root 1 with left child 2 and right child 3: add 1, then add 2, then add 3. The result is [1, 2, 3].
+Example: root = [1, 2, 3].
+1. Add the root value 1.
+2. Visit the left child and add 2.
+3. Visit the right child and add 3.
+4. Return [1, 2, 3].
 
 ### Challenges and testing
-I must add the value before the recursive calls. If I add it after the children, the traversal becomes postorder. I would test a small tree where the order is easy to see.
+I must add the value before the recursive calls. If I add it after the children, the traversal becomes postorder. I tested an empty tree, a single node, and a tree with both children. The results were [], [1], and [1, 2, 3].
 
 ## 3. Time Complexity
-**O(n)** time.
+**O(n)** time, where n is the number of nodes.
 
 Every node is processed once.
 
 ## 4. Space Complexity
-**O(h)**.
-
-The recursive stack uses O(h) space, or O(n) for a tree shaped like a line.
+**O(h)** extra space, where h is the tree height. It can be O(n) for a tree shaped like a line.
 
 ## 5. Reflection / Improvement
 An iterative stack solution also takes O(n) time and avoids recursion. The time complexity cannot be better than O(n), because every value must be returned.
