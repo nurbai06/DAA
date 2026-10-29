@@ -25,3 +25,4 @@ Each node is checked once to calculate its depth.
 
 ## 5. Reflection / Improvement
 Breadth-first search can count levels and also takes O(n) time. It can be convenient when processing the tree level by level.
+
