@@ -22,3 +22,16 @@ Each task contains solution.py and README.md.
 
 - [Sort an Array](week5/sort_an_array/README.md)
 - [Sort List](week5/sort_list/README.md)
+
+## Week 6
+
+- [Binary Tree Inorder Traversal](week6/inorder_traversal/README.md)
+- [Maximum Depth of Binary Tree](week6/maximum_depth/README.md)
+- [Minimum Depth of Binary Tree](week6/minimum_depth/README.md)
+- [Path Sum](week6/path_sum/README.md)
+- [Binary Tree Preorder Traversal](week6/preorder_traversal/README.md)
+- [Binary Tree Postorder Traversal](week6/postorder_traversal/README.md)
+- [Invert Binary Tree](week6/invert_binary_tree/README.md)
+- [Binary Tree Paths](week6/binary_tree_paths/README.md)
+- [Sum of Left Leaves](week6/sum_of_left_leaves/README.md)
+- [Merge Two Binary Trees](week6/merge_two_binary_trees/README.md)
