@@ -25,3 +25,4 @@ In the worst case, every node is checked.
 
 ## 5. Reflection / Improvement
 An iterative stack can store each node and its remaining sum. It keeps O(n) worst-case time but avoids recursive calls.
+
