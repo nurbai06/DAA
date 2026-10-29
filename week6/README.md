@@ -14,3 +14,4 @@ This week contains 10 Binary Tree problems. Each task has a Python solution and 
 8. [Binary Tree Paths](binary_tree_paths/README.md)
 9. [Sum of Left Leaves](sum_of_left_leaves/README.md)
 10. [Merge Two Binary Trees](merge_two_binary_trees/README.md)
+
