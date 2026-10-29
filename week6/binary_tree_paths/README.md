@@ -26,3 +26,4 @@ Every node is visited, and building and storing the path strings adds work propo
 
 ## 5. Reflection / Improvement
 Every path must be returned, so output work cannot be skipped. Careful path handling can reduce unnecessary string copying, but the overall work still depends on the output size.
+
